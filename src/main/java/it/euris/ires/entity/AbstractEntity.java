@@ -1,5 +1,6 @@
 package it.euris.ires.entity;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.UUID;
 import lombok.Getter;
